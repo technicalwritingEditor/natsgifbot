@@ -1,6 +1,8 @@
 # natsgifbot
 A discord bot built for the unofficial Nationals discord.
 
+The default prefix to execute a command is `!` Ex. `!help`
+
 Supported commands:
 ```
 Baseball:
